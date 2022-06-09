@@ -1,0 +1,20 @@
+.login-page {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 20%;
+}
+
+.login-page input {
+  height: 30px;
+  margin: 5px;
+  width: 250px;
+}
+
+.login-page button {
+  align-items: center;
+  display: flex;
+  height: 30px;
+  margin: 5px;
+  width: 70px;
+}

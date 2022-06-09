@@ -1,0 +1,52 @@
+.search-page {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.search-page input {
+  height: 30px;
+  margin: 5px;
+  width: 300px;
+}
+
+.search-page button {
+  align-items: center;
+  display: flex;
+  height: 30px;
+  margin: 5px;
+  width: 100px;
+}
+
+.section-result p, .container-results p {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.container-results {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.album {
+  align-items: center;
+  color: #3f4064;
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  margin: 15px;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.album:hover {
+  color: #3f4064;
+  font-weight: 700;
+}
+
+.album img, .album p {
+  width: 150px;
+}

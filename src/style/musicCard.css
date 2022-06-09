@@ -1,0 +1,30 @@
+.music-card {
+  margin-bottom: 25px;
+}
+
+.music-card h3 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.audio-fav {
+  align-items: center;
+  display: flex;
+}
+
+.audio-fav label {
+  align-items: center;
+  display: flex;
+  margin-left: 20px;
+}
+
+.form-check-input:focus {
+  background-color: #ac9fbb;
+  box-shadow: 0 0 0 0.25rem (#3f4064 / 25%);
+  outline: 0;
+}
+
+.form-check-input:checked {
+  background-color: #ac9fbb;
+  border-color: #ac9fbb;
+}

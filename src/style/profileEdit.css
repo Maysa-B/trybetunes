@@ -1,0 +1,26 @@
+.edit-profile-component {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+.form-control {
+  height: 30px;
+  margin: 5px;
+  width: 300px;
+}
+
+.edit-profile-component textarea {
+  height: 100px;
+  resize: none;
+}
+
+.edit-profile-component button {
+  align-items: center;
+  display: flex;
+  height: 30px;
+  justify-content: center;
+  margin: 5px;
+  width: 100px;
+}

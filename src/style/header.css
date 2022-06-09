@@ -1,0 +1,38 @@
+.img-name {
+  align-items: center;
+  background-color: #3f4064;
+  display: flex;
+  justify-content: space-between;
+}
+
+.img-name img {
+  height: 80px;
+  margin-left: 15px;
+}
+
+.img-name h2 {
+  background-color: #dee1eb;
+  border-radius: 25px;
+  font-size: 18px;
+  margin-right: 15px;
+  padding: 8px;
+  text-align: center;
+  width: 130px;
+}
+
+header nav {
+  background-color: #ac9fbb;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+}
+
+.link-header {
+  color: #3f4064;
+  text-decoration: none;
+}
+
+.link-header:hover {
+  color: #3f4064;
+  font-weight: 700;
+}

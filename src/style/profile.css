@@ -1,0 +1,43 @@
+.profile-page {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 40%;
+  margin-top: 30px;
+}
+
+.profile-page div {
+  align-items: center;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.profile-page div img {
+  border-radius: 15px;
+  height: 150px;
+  margin-right: 15px;
+  object-fit: scale-down;
+  width: 150px;
+}
+
+.edit-link {
+  background-color: #ac9fbb;
+  border: 0.5px solid #3f4064;
+  border-radius: 20px;
+  color: #3f4064;
+  margin-left: 15px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.edit-link:hover {
+  background-color: #3f4064;
+  border: 0.5px solid #ac9fbb;
+  color: #ac9fbb;
+  font-weight: 700;
+}
+
+.profile-page h4 {
+  margin-bottom: 5px;
+  margin-top: 20px;
+}
