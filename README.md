@@ -7,6 +7,8 @@ This project was made at the end of block 13, in which I studied _React Componen
 
 The most important features of this project are:
 
+<img src="https://user-images.githubusercontent.com/99998543/172960740-fdea7797-a3d2-4132-875a-65ec16c87c57.png" alt="music-song" align="right" width="200px" />
+
 1. A initial **login** page.
 2. Several **navigation routes** on the page.
 3. An input to **search** for artists and the result page with the resulting albums.
